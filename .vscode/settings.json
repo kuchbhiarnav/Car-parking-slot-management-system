@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "Carparar.C": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "algorithm": "cpp",
+        "fstream": "cpp",
+        "chrono": "cpp"
+    }
+}
